@@ -29,8 +29,6 @@ public class Pizzas {
     public static final String SOLOTOMATE = "soloTomate";
     public static final String SALSASINGLUTEN = "salsaSinGluten";
 
-
-
     public Pizzas() {
         this.masa = NORMAL;
         this.relleno = false;
